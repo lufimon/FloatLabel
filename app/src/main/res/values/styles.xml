@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextInputEdit.EditText" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">#E4E4E9</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="fontFamily">@font/db_heavent_li_cond</item>
+        <item name="android:textSize">20sp</item>
+        <item name="floatLabelColor">@color/colorPrimary</item>
+    </style>
+
+</resources>

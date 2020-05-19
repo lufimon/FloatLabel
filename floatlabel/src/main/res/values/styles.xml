@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextInputEdit.EditText" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">#E4E4E9</item>
+        <item name="colorControlActivated">#07B78D</item>
+        <item name="colorControlHighlight">#07B78D</item>
+    </style>
+</resources>
